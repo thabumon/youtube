@@ -34,6 +34,7 @@ Installation instructions for
     
     <b>Select Packages</b>
     - This may seem counter-intuitive but for now, lets not select any packages.
+    - gcc-g++,make,gdb packages also for running c programs
     - Click 'Next'
     
     <b>Review and confirm changes</b>
