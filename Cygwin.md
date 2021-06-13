@@ -1,5 +1,5 @@
 # How to install Cygwin on Windows 10
-Installation instructions for
+Installation instructions for https://youtu.be/Jvh5MH-W2-c
 
 1) Download cygwin from https://cygwin.com/install.html
 
@@ -49,3 +49,6 @@ Installation instructions for
  
 4) Confirm that Cygwin is installed
   - Double click 'Cygwin Terminal' on your desktop and confirm that the terminal launches.
+  -
+5)👉🏻 To set the path of gcc. 
+ Right-click on My computer or This PC -> Properties -> Advanced system setting -> Environment Variables -> In system variable section find and open 'path' variable  -> click new -> add the path to bin folder of your installed Cygwin ( default directory path will be C:\cygwin64\bin ) -> save it by clicking ok
